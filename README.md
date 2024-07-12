@@ -3,7 +3,7 @@
 ## About Me
 
 * Main project is a Discord bot called [Puffer](https://dsc.gg/puffer) (No public repository).
-* 18 years old (This will update as I get older lol).
+* 19 years old (This will update as I get older lol).
 * Was a programmer for a FIRST Robotics Competition Team for a year.
 * Not confirmed to be a fish, but not out of the question either.
 * Pronouns are he/him
