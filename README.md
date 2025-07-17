@@ -15,5 +15,5 @@
 
 ## Socials
 
-* [Discord](https://discord.gg/users/664221553902485505)
+* [Discord](https://discord.com/users/664221553902485505)
 * [Twitter](https://twitter.com/TorafuguSashimi) (Calling it "X" makes it seem like a *different* site)
