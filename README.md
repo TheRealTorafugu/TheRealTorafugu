@@ -2,7 +2,7 @@
 
 ## About Me
 
-* 20 years old (This will update as I get older lol).
+* 20 years old.
 * Was a programmer for a FIRST Robotics Competition Team for a year.
 * Not confirmed to be a fish, but not out of the question either.
 * Pronouns are he/him
